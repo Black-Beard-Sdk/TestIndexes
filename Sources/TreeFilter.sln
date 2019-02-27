@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortFilterUnitTest", "SortFilterUnitTest\SortFilterUnitTest.csproj", "{20FAD05C-712B-45B1-8368-C7FF0F536701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Black.Beard.Filters", "Black.Beard.Filters\Black.Beard.Filters.csproj", "{782294CA-3637-4AF2-B3A2-2187C222B11D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FAD05C-712B-45B1-8368-C7FF0F536701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FAD05C-712B-45B1-8368-C7FF0F536701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FAD05C-712B-45B1-8368-C7FF0F536701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FAD05C-712B-45B1-8368-C7FF0F536701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782294CA-3637-4AF2-B3A2-2187C222B11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782294CA-3637-4AF2-B3A2-2187C222B11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782294CA-3637-4AF2-B3A2-2187C222B11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782294CA-3637-4AF2-B3A2-2187C222B11D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF1B41A-7E74-4009-A478-FB2F07607D49}
+	EndGlobalSection
+EndGlobal
